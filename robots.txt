@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rwdaa.vercel.app/sitemap.xml
